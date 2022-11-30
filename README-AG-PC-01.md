@@ -1,0 +1,2 @@
+# trails-of-tucana
+Trails-of-tucana is a companion app to the [Trails of Tucana](https://boardgamegeek.com/boardgame/283864/trails-tucana) flip & write game, which replaces the need for Terrain deck. Now to play you just need a phone with the app and pictures of the goals, and the map sheets(consider laminating them and using dry-erase markers!).
